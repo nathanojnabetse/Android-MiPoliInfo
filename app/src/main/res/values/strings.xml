@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Mi Poli Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_top">Top fragment</string>
+    <string name="vacio">-</string>
+
+    <string name="nombres">Nombre: Jonathan Esteban</string>
+    <string name="apellidos">Apellidos: Jaramillo Arboleda</string>
+    <string name="numeroCedula">Cedula: 1718723735</string>
+    <string name="numeroUnico">Numero único: 201420253</string>
+    <string name="telefono">Teléfono: 0983798094</string>
+    <string name="correo">Correo 1: jonathan.jaramillo@epn.edu.ec</string>
+    <string name="correo2">Correo 2: nathanojnabetse@hotmail.com</string>
+    <string name="facultad">Facultad: Facultad de Ingeniería Eléctrica y Electrónica</string>
+    <string name="carrera">Carrera: Ingeniería Electrónica y Redes de Información</string>
+
+    <string name="profe1">Laboratorio de sistemas microprocesados: Ing. Israel Paredes | Oficina:ELE-E303</string>
+    <string name="profe2">Laboratorio de redes TCP/IP: Ing. Xavier Calderón | Oficina: Q/E-704 </string>
+    <string name="profe3">Laboratorio de redes de área local: Ing. Gabriel López | Oficina: Q/E-202</string>
+    <string name="profe4">Sistemas Microprocesados: Ing.Diego Pilaquinga | Oficina:Q/E-204</string>
+    <string name="profe5">Redes TCP/IP: Ing. Carlos Herrera | Oficina: Decanato</string>
+    <string name="profe6">Redes de áres local: Ing. Mónica Vinueza | Oficina: Tecnólogos 27</string>
+    <string name="profe7">Seminario IB: Ing. David Mejía | Oficina: Q/E-704</string>
+    <string name="profe8">Ingeniería Financiera: Ing. Patricio Carrasco | Oficina: Civil 302</string>
+    <string name="profe9">Ecología y medio ambiente: Ing. David Donoso | Oficina: Museo Gustavo Orcés</string>
+
+    <string-array name="dias">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+    </string-array>
+
+    <string-array name="opciones">
+        <item>Inicio</item>
+        <item>Mi info</item>
+        <item>Horario</item>
+        <item>Profesores</item>
+        <item>Tareas</item>
+        <item>Saew</item>
+    </string-array>
+
+    <string name="open_drawer">Open drawer </string>
+    <string name="Close_drawer">Close drawer </string>
+
+</resources>
